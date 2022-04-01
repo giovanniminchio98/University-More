@@ -12,6 +12,14 @@ In this folder you can find some projects done for <b>Deep Learning</b> course f
 <hr>
 I havent done the course exam yet. Im planning to do it in June 2022...
 <br>
+
+(Template) I've done the exam: <br>
+    1. in : **???** <br>
+    2. grade : **???** <br>
+<hr>
+
+    Notes :   ...
+<br>
 <br>
 
 > <b>ps: </b> 
