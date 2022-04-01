@@ -2,10 +2,12 @@
 
 This folder contains a few scripts done in the course "Big Data" during my first year of Master Degree (<b>@University of Padua</b>, specialization in <b>AI and robotis</b>).
 This course was not mandatory, but I ve choosen it since was my first ever that went really deep into big data algorithms and code exmaples (like this homework). <br>
+<hr>
 I've done the exam: <br>
     1. in : **September 2021** <br>
     2. grade : **23** <br>
 <hr>
+
     Notes :   low grade. My preparation in terms of coding ability and overall preparation was fine. I leacked in some theorem's proof...<br>
     In my defense : from July 2021 to December 2021 I had hard times with the university, wasn't sure anymore to continue my path (even tho it was already going on). Fortunately, after a Stage (full time, in an interesting Start-Up) I found my way again !!<br>
     Proud to say that my studies are still going :)
