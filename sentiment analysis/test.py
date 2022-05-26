@@ -1,3 +1,14 @@
+
+# Naive sentiment analysis script that uses flair model. 
+# It has also google translator API since I was trying to do
+# the analysis traduced sentence. 
+# Still working on it
+# 
+# ATR the moment the template is ready but nothing has been done yet (in terms of analysis). 
+# I will continue when I have time...  #
+
+
+
 import os
 import flair
 import numpy as np

@@ -1,3 +1,8 @@
+
+# This is a template program intented to be used for sentiment analysis of cryptos prices
+# It needs the API from twitter in order to get new tweets about the crypto, that will be analyzed
+# Till  #
+
 'imports'
 from http.client import responses
 import os
