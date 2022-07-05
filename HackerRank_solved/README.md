@@ -3,6 +3,14 @@ This folder is about some problems solved in the homonym site. They are not all 
 <hr>
 Link to my hackerRank page:<br>
 
-    https://www.hackerrank.com/gminchiogm
+[![GitHub](https://github.com/giovanniminchio98/University-More/blob/main/download%20(1).png)](https://www.hackerrank.com/gminchiogm)
 
-**Notes:** I do not use it as I would due to lack of time...
+<hr>
+
+<h1> Solved problem "timeline" (added on 7th July 2022) </h1>
+
+
+
+<h3> 07 july 2022 </h3> Default Arguments[Python - medium]
+    https://www.hackerrank.com/challenges/default-arguments/problem
+
